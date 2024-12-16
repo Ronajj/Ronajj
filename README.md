@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## I am currently working on maltodextrin and cellodextrin metabolism in _Klebsiella pneumoniae_.
+## I am currently learning how to use tools available on GitHub for my research (that I am not so familiar with).
 <!--
 **Ronajj/Ronajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
